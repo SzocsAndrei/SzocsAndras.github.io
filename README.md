@@ -1,2 +1,2 @@
 # SzocsAndras.github.io
-This is my study projects portofolio, i includet some of 
+This is my portfolio for presenting some of my own projects.
