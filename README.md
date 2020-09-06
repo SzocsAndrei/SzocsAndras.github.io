@@ -5,6 +5,8 @@ Short description for each project :
 
 Banking_Sistem - this is my most complex project, a banking software, I designed this application using OOP Inheritance and polymorphism.
 
+Find_Word - this applications finds a substring in a imput stream(text file).
+
 Hangman - is a simple game in console, it was a milestone for me in terms of the complexity of a applicattion that I can program.
 
 Test_de_cultura_generala - is small quiz application, designed using OOP.
