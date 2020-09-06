@@ -13,7 +13,7 @@ Permutations_of_a_string - applications that output all the permutations of a st
 
 Piramida - application that output a string in a form of a piramid.
 
-Shuffle_and_sort - this application suffle an array using random_shuffle from algorithm library and sort the same array the array using the bubble sorting algorithm.
+Shuffle_and_sort - this application suffle an array using random_shuffle from algorithm library and sort the same array using the bubble sorting algorithm.
 
 Test_de_cultura_generala - small quiz application, designed using OOP.
 
