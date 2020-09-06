@@ -11,6 +11,6 @@ Hangman - is a simple game in console, it was a milestone for me in terms of the
 
 Permutations_of_a_string - is a applications that output all the permutations of a string using recursion and backtracking.
 
-Test_de_cultura_generala - is small quiz application, designed using OOP.
+Test_de_cultura_generala - is a small quiz application, designed using OOP.
 
 Tower_of_Hanoi -is a application that solve the tower of Hanoi using a recursion alghorithm. 
