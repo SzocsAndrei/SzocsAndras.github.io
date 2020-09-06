@@ -1,5 +1,5 @@
 # SzocsAndras.github.io
-This is my portfolio for presenting some of my own projects.
+This are some of my own study projects.
 
 Short description for each project :
 
