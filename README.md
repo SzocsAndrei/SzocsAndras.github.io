@@ -17,4 +17,4 @@ Shuffle_and_sort - this application suffle an array using random_shuffle from al
 
 Test_de_cultura_generala - small quiz application, designed using OOP.
 
-Tower_of_Hanoi -application that solve the tower of Hanoi using a recursion alghorithm. 
+Tower_of_Hanoi - application that solve the tower of Hanoi using a recursion alghorithm. 
